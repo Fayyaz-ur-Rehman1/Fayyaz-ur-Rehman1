@@ -28,7 +28,6 @@ target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuld
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Fayyaz-ur-Rehman1&show_icons=true&locale=en&layout=compact" alt="Fayyaz-ur-rehman" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Fayyaz-ur-Rehman1
-&show_icons=true&locale=en" alt="Fayyaz-ur-rehman" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Fayyaz-ur-Rehman1&show_icons=true&locale=en" alt="Fayyaz-ur-rehman" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Fayyaz-ur-Rehman1&" alt="Fayyaz-ur-rehman" /></p>
